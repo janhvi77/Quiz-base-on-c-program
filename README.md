@@ -94,6 +94,11 @@ Compiler: GCC / Clang / Turbo C / Visual Studio Code
 
 ---
 
+🎥 Watch this video demo of a C language quiz program that tests your basic C knowledge with scoring, timing, and instant feedback! :
+
+   https://drive.google.com/file/d/12FM43rhFpz_XuKWk7F7LadOHWSc_6D0t/view?usp=drivesdk
+
+---
 🤝 Contributions
 
 Contributions are welcome! Feel free to:
